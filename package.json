@@ -1,0 +1,29 @@
+{
+  "name": "bangalee-discord-bot",
+  "version": "1.0.0",
+  "description": "A discord bot but Bangladeshi",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCodeHeist/bangalee-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "bangladeshi"
+  ],
+  "author": "Md. Riyasat Hossain (TheCodeHeist)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCodeHeist/bangalee-discord-bot/issues"
+  },
+  "homepage": "https://github.com/TheCodeHeist/bangalee-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
